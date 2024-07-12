@@ -14,5 +14,7 @@ public class LambdaFilterExample {
                                           .collect(Collectors.toList());
 
         System.out.println("Filtered names: " + filteredNames);
+        
+        //ggghghghghfhfg
     }
 }
